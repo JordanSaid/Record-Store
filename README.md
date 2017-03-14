@@ -1,6 +1,6 @@
 # Record-Store
 
-A Record Store application written in JavaScript using Mocha Unit testing. Breif below.
+A Record Store application written in JavaScript using Mocha Unit testing. Brief below.
 
 
 ### Requirements
